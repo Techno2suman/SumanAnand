@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Techno2suman
-- 👀 I’m interested in developing Android App
+- 👀 I’m interested in developing an Android App
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at techno2suman@gmail.com 
